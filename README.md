@@ -7,7 +7,7 @@ I'm junie! nice to meet you I'm barely active here since I'm not that good a dev
 ## 🧐 What Projects will be posted here? 
 **`Tutorials / Simple Qaulity of Life Scripts`**
 
-Like i touched on in a bit while i greeted you ^^ thanks for staying btw <33 I plan on releasing projects that will help some issues Nvidia has with Wayland along with just quality of life improvements i can find along with tutorials for people new to Linux who were like me who couldn't find their answer in the various buried forum posts <33!
+Like i touched on a bit while i greeted you ^^ thanks for staying btw <33 I plan on releasing projects that will help some issues Nvidia has with Wayland along with just quality of life improvements i can find along with tutorials for people new to Linux who were like me who couldn't find their answer in the various buried forum posts <33!
 
 ## 🖥️ Info About My Setup
 **`🌐 Arch Linux, 💻 Hyprland, 📡 Ryzen CPU, 🖱️ Nvidia GPU - 🛠️ Driver 555 `**
