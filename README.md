@@ -21,7 +21,7 @@ Like i touched on a bit while i greeted you ^^ thanks for staying btw <33 I plan
 I owe my entire desktop setup to [Prasanth Rangan](https://www.github.com/prasanthrangan) I highly recommend you check out his work!!! He's actually the person that inspired me to originally switch from windows to Linux! I use Prasanth Rangans dotfiles which can be found -> [here](https://github.com/prasanthrangan/hyprdots) I also use a similiar configuration on my laptop! But i use [ML4W](https://github.com/mylinuxforwork) dotfile's! These can be found [here](https://github.com/mylinuxforwork/dotfiles) again another amazing creator who does way too much for the community please check them out as well! 
 
 ##  <img src="https://github.com/user-attachments/assets/2b6d36ff-bc0d-4f44-bf58-b81a090fd07c" alt="languages" height="60" /> My langauges
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## <img src="https://github.com/user-attachments/assets/c5c0452e-1f4e-4a05-affe-0f86eba44101" alt="cattostats" height="47" /> My Stats
 
