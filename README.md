@@ -7,7 +7,7 @@
 
 **`Linux enthusiast/ CyberSecurity Student`**
 
-I'm junie! nice to meet you I'm barely active here since I'm not that good a developing projects. But when i do develop something I'm sure to post it here! I mostly make programs for Linux most of which are inspired by others! I also plan on posting tutorials for new people to Linux specifically tiling managers and Wayland gaming ^^ 
+'m Junie! Nice to meet you. I'm not very active here since I'm not that skilled at developing projects. But when I do create something, I'll be sure to post it here! I mostly make programs for Linux, many of which are inspired by others. I also plan to post tutorials for newcomers to Linux, specifically on tiling window managers and Wayland gaming.
 
 ## <img src="https://github.com/user-attachments/assets/21cf3f72-4a3d-4e3a-971f-f915d868782e" alt="roll" width="47" /> What Projects will be posted here? 
 
